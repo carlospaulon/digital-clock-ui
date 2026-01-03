@@ -11,3 +11,4 @@ A simple and responsive digital clock built with:
 - Deployed with GitHub Pages
 
 ### Live Demo
+https://carlospaulon.github.io/digital-clock-ui/
